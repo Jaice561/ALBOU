@@ -1,0 +1,46 @@
+Built a deck of card || organized one
+
+Shuffle the deck of card || randomize it
+
+After Shuffling || randomized: two random card will be display
+
+
+Player will be provided option to pick either card
+
+
+The logic is: If player choose card one instead of card two, the deck of card will flip each card to see which is first
+&& If card number one is flip first then player one win!
+
+else player looses
+
+and repeat the whole process when after declare a winner or a looser
+reset function and creating a for or a while loop
+
+
+
+Build the card deck
+put the cards number, suits in a array, to lay them out
+
+Shuffle the deck
+I’m not clear on how to do that yet, but I Looked it up, 
+I think I’m suppose to add a shuffle function and add a loop for every single item in the array
+
+Randomly select a card
+add a function that pick two random number in the array after the, the card is shuttle
+
+first, add an addEventListener click function to flip both random card
+
+Win/loss logic
+If and else statement
+If (card value pick === the first card display in the deck) { player will win
+}
+else if (card value 2 === the first card display) { player will lose 
+}
+
+first I would need to call couple variable and set them equal to zero for winner and loser 
+
+How will you repeat the processHow will you repeat the process
+create a reset function and creating a for or a while loop so that process start over 
+
+
+
