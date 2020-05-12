@@ -1,8 +1,14 @@
 h1 {
     font-size: 100;
-    color: green;
+    color: rgb(13, 212, 238);
     margin: 50px;
     text-align: center;
+    font-size: 60px;
+}
+
+p {
+  font-size: 40px;
+  color: rgb(26, 166, 221);
 }
 
 body { 
