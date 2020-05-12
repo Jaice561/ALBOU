@@ -1,4 +1,4 @@
-# JamesonExil/Project-1
+# ALBOU
  Name of the game = Albou
  
  It's a card game that is play for money. 
