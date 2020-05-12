@@ -15,3 +15,18 @@
  If the card that the other player choose come first, the he win the amount of money he put in there.
 
 
+
+# SCREENSHOT
+
+
+
+# Technologies Uused
+html/css/JavaScrip
+
+# Link to game
+
+# Future enhancements
+
+
+
+
