@@ -18,8 +18,6 @@
 
 # SCREENSHOT
 
-
-
 # Technologies Uused
 html/css/JavaScrip
 
