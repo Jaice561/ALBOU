@@ -315,9 +315,12 @@
 
 .card.back-blue {
   background-image: url("./images/backs/blue.svg"); 
-    margin: 0 auto;
-    width: 100%;
-    height: 200px;
+    /* margin: 0 auto; */
+    width: 50%;
+    height: 270px;
+    border: none;
+    margin-left: 300px;
+   
 }
 
 .card.back-red {
@@ -350,3 +353,69 @@
   .card.east.shadow,
   .card.E.shadow {
     box-shadow: -2px 2px 3px 0 rgba(41, 41, 41, 0.75); }
+
+    .computerboard {
+      border: solid;
+      width: 100px;
+      height: 100px;
+      padding-bottom: 20px;
+      margin-left:1090px;
+      margin-top: -280px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1200px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .playerboard {
+      border: solid;
+      width: 100px;
+      height: 100px;
+      padding-bottom: 20px;
+     margin-top: 300px;
+    }
+
+    .link {
+      padding-left: 565px;
+      margin-top: -50px;
+    }
+
+    .cardchoiceone {
+      border: solid;
+      width: 180px;
+      height: 270px;
+      margin-left: 700px;
+      margin-top: -340px;
+    }
+
+    .cardchoicetwo {
+      border: solid;
+      width: 180px;
+      height: 270px;
+      margin-left: 315px;
+      margin-top: -310px;
+    }
+
+    h3 {
+      margin-left: 1110px;
+    }
+  
+    .h3 {
+      margin-left: 0px;
+    }
+
+  button {
+    margin-left: 525px;
+    border: none;
+    font-size: 30px;
+    
+  }
+  
+  button:hover {
+    background-color:rgb(204, 32, 126);
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }

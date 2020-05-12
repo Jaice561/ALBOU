@@ -14,3 +14,6 @@ function initial (){
     document.getElementById ("readmore").style.display="none"; 
 }
 
+function shuffle() {
+    
+}
