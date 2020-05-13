@@ -316,10 +316,11 @@
 .card.back-blue {
   background-image: url("./images/backs/blue.svg"); 
     /* margin: 0 auto; */
-    width: 50%;
+    width: 200px;
     height: 270px;
-    border: none;
-    margin-left: 300px;
+    border: solid;
+    margin-left: 495px;
+    background-color:rgba(119, 243, 119, 0.548);
    
 }
 
@@ -411,11 +412,21 @@
     margin-left: 525px;
     border: none;
     font-size: 30px;
-    
+    background-color: rgba(108, 224, 108, 0.548);
   }
   
   button:hover {
     background-color:rgb(204, 32, 126);
     cursor: pointer;
     transition: all 0.3s ease-in-out;
+  }
+
+  span{
+    display: flex;
+    margin: 40px;
+    font-size: 30px;
+  }
+
+  body {
+    background-color: rgba(108, 224, 108, 0.548);
   }
