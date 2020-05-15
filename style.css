@@ -1,9 +1,9 @@
 h1 {
-    font-size: 100;
-    color: rgb(13, 212, 238);
-    margin: 50px;
-    text-align: center;
-    font-size: 60px;
+  font-size: 100;
+  color: rgb(13, 212, 238);
+  margin: 50px;
+  text-align: center;
+  font-size: 60px;
 }
 
 p {
@@ -11,7 +11,7 @@ p {
   color: rgb(26, 166, 221);
 }
 
-body { 
+body {
   background-image: url(card.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -27,7 +27,7 @@ a {
 }
 
 #Read {
-  
+
   align-items: center;
   justify-content: center;
   display: flex;
@@ -43,8 +43,13 @@ button {
 }
 
 a:hover {
-    background-color:rgb(8, 11, 12);
-    cursor: pointer;
-    transition: all 0.3s ease-in-out;
+  background-color: rgb(8, 11, 12);
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
 }
 
+@media (max-width: 786px) {
+  body {
+    display: block;
+  }
+}
