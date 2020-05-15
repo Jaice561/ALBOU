@@ -17,6 +17,7 @@
 
 
 # SCREENSHOT
+<ing src="game.png">
 
 # Technologies Uused
 html/css/JavaScrip
