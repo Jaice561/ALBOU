@@ -11,7 +11,7 @@
  First of all, the deck need to be shuffle;
  Two card need to be flip after shuffling
  The player that is not distributing the card need to choose a card,
- After choosing the card, the dealer need to go through the card to see which one of the card come first.
+ After choosing the card, the dealer need to go through the card to see which one of the card come first. / in this case the player will be clicking on the deck until the cards are match
  If the card that the other player choose come first, the he win the amount of money he put in there.
 
 
