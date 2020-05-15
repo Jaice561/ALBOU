@@ -17,14 +17,19 @@
 
 
 # SCREENSHOT
-
-# Technologies Uused
 !{game.png}(https://github.com/Jaice561/ALBOU/blob/master/game.png)
 
+# Technologies Uused
+JavaScrip, html, css
+
 # Link to game
+https://jaice561.github.io/ALBOU/index.html
 
 # Future enhancements
-
+Future enhancements would be to add some coin that represent money to play;
+and make the actual game responsive for phone 
+and when I'm done I want to make it into an app.
+to where people can play for actually money
 
 
 
