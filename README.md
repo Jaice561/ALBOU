@@ -17,10 +17,9 @@
 
 
 # SCREENSHOT
-<ing src="game.png">
 
 # Technologies Uused
-html/css/JavaScrip
+!{game.png}(https://github.com/Jaice561/ALBOU/blob/master/game.png)
 
 # Link to game
 
