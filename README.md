@@ -17,7 +17,7 @@
 
 
 # SCREENSHOT
-!{game.png}(https://github.com/Jaice561/ALBOU/blob/master/game.png)
+!{https://github.com/Jaice561/ALBOU/blob/master/game.png}(game.png)
 
 # Technologies Uused
 JavaScrip, html, css
